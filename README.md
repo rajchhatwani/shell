@@ -29,11 +29,11 @@ The **Shell Command Executor** is a lightweight, custom shell program written in
 ## Usage
 1. **Compile the Program**:
    ```bash
-   gcc -o shell_command_executor shell_command_executor.c
+   gcc -o shell shell.c
    ```
 2. **Run the Shell**:
    ```bash
-   ./shell_command_executor
+   ./shell
    ```
 3. **Use Commands**:
    - **Built-in Examples**:
