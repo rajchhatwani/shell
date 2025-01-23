@@ -83,11 +83,6 @@ $ exit 0
   - Input: `type`
   - Output: `type: command not found`
 
-## Future Enhancements
-- Add support for pipes (`|`) and redirection (`>`, `<`).
-- Implement history functionality for previously executed commands.
-- Introduce scripting capabilities for batch command execution.
-
 ## License
 This project is licensed under the MIT License.
 
