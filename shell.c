@@ -13,7 +13,7 @@ char *find_in_path(const char *command)
   char *path_env = getenv("PATH");
   if (path_env == NULL)
   {
-    return NULL;
+    return NULL; 
   }
   char *path_copy = strdup(path_env);
   // printf("%s- this is path_copy\n", path_copy);
